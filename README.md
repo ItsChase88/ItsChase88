@@ -1,6 +1,7 @@
 # Chase88
 * Owner and Lead Developer @ Refresh Gaming. *A gaming community that hosts CS2 servers with custom in-house designed plugins.*
 * CEO and Lead Developer @ Ravenger.
+* CTO @ 3P-EVENTS, LLC
 ---
 ![](https://github-readme-stats.vercel.app/api?username=itschase88&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itschase88&theme=dark&hide_border=true)<br/>
