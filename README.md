@@ -1,4 +1,4 @@
-# Chase (Chase88)
+# Chase
 * Owner and Lead Developer @ Refresh Gaming.
 * Co-Founder and Lead Developer @ HerdsApp, LLC.
 * CTO @ 3P-EVENTS, LLC.
