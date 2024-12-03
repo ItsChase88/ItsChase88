@@ -1,4 +1,4 @@
-# Chase Bonham (Chase88)
+# Chase (Chase88)
 * Owner and Lead Developer @ Refresh Gaming. *A gaming community that hosts CS2 servers with custom in-house designed plugins.*
 * CEO and Lead Developer @ Ravenger.
 * CTO @ 3P-EVENTS, LLC.
