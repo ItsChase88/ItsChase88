@@ -1,6 +1,6 @@
 # Chase
 * Owner and Lead Developer @ Refresh Gaming.
-* Co-Founder and Lead Developer @ HerdsApp, LLC.
+* Co-Founder and Lead Developer @ HerdsApp.
 ---
 ![](https://github-readme-stats.vercel.app/api?username=itschase88&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itschase88&theme=dark&hide_border=true)<br/>
